@@ -1,2 +1,4 @@
 # Inicializando
- Primeiro repositório versionado 
+ Primeiro repositório versionado, curso.
+
+Repositório inicio de tarefas no git.
